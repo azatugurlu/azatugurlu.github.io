@@ -1,6 +1,9 @@
 [
   {
     "id": 1,
+    "price": "315 000 €",
+    "type": "Paritalo",
+    "buildingYear": "2004",
     "location": "Masala, Kirkkonummi",
     "size": "104 m²",
     "roomSize": 4,
@@ -11,6 +14,9 @@
   },
   {
     "id": 2,
+    "price": "199 000 €",
+    "type": "Kerrostalo",
+    "buildingYear": "2012",
     "location": "Suurpellon puistokatu 8 B, Espoo",
     "size": "35.5 m²",
     "roomSize": 1,
@@ -21,6 +27,9 @@
     },
     {
     "id": 3,
+    "price": "355 000 €",
+    "type": "Rivitalo",
+    "buildingYear": "1982",
     "location": "Helsinki",
     "size": "82 m²",
     "roomSize": 2,
