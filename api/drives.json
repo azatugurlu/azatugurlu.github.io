@@ -1,23 +1,27 @@
 [
   {
+    "id": 1,
     "name": "ACS480",
     "image": "https://webimages.imagebank.abb.com/public/default/product/9AAC188848/presentation",
     "description": "The ACS480 low voltage AC drive is part of ABB’s all-compatible drives portfolio and features a wide range of useful built-in features in a compact design. This gives users high dependability and simplified operation for numerous applications in various industries, including food & beverage, logistics & warehousing, and water & wastewater.",
     "manufactured": 1665393049
   },
   {
+    "id": 2,
     "name": "ACS580",
     "image": "https://webimages.imagebank.abb.com/public/default/product/9AAC175124/preview",
     "description": "ACS580 general purpose drives simplify your processes and motor control with effortless process automation. The ACS580 is a good choice for a wide range of applications, making it easy to comprehensively manage your plant. The ACS580 is part of ABB’s all-compatible drives portfolio, sharing the same architecture and user interfaces for easy usability. The ACS580 is plug-in ready to control your compressors, conveyors, mixers, pumps, centrifuges, fans and many other variable and constant torque applications in different industries.",
     "manufactured": 1499659549
   },
   {
+    "id": 3,
     "name": "ACS310",
     "image": "https://webimages.imagebank.abb.com/public/default/product/9AAC158912/preview",
     "description": "A drive dedicated to optimize your variable torque applications, such as booster pumps and centrifugal fans. Designed with a powerful set of features that vary the drive’s performance in response to changes in pressure, flow or other external data. Helping you to save on operating costs, increase energy efficiency and reduce CO2 emissions.",
     "manufactured": 1373169949
   },
   {
+    "id": 4,
     "name": "ACS550",
     "image": "https://webimages.imagebank.abb.com/public/default/product/9AAC207087/preview",
     "description": "When you need simplicity and intelligence in one self-contained solution the ACS550 covers a wide range of options. Ideal for variable and constant torque applications from pumps and fans to conveyors and mixers as well as many other variable and constant torque applications. Enjoy plug and play convenience right from the start. No customizing or special product engineering required.  Monitor your savings easily with the built-in counters, which display energy savings in kilowatt hours, carbon dioxide emissions or local currencies.",
