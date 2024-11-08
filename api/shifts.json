@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"name": "Dishwasher",
+		"description": "Someone can wash dishes."
+	},
+	{
+		"id": 2,
+		"name": "Cleaner",
+		"description": "Someone can clean homes."
+	},
+	{
+		"id": 3,
+		"name": "Driver",
+		"description": "Someone can drive cars."
+	},
+	{
+		"id": 4,
+		"name": "Chef",
+		"description": "Someone can cook salad."
+	}
+]
