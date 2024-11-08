@@ -1,0 +1,21 @@
+[
+	{
+		"id": 1,
+		"name": "Food Oy",
+		"description": "Food Ordering & Delivery."
+	},
+	{
+		"id": 2,
+		"name": "K-Clean Oy",
+		"description": "A cleaning company"
+	},
+	{
+		"id": 3,
+		"name": "Delivers Oy"
+	},
+	{
+		"id": 4,
+		"name": "Ravintola Kuusi",
+		"description": "A nish restaurant."
+	}
+]
